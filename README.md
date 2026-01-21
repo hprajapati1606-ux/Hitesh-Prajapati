@@ -29,15 +29,6 @@ An ongoing project focused on building a flexible MLOps pipeline that works acro
 A web-based application for managing inventory operations, built using JavaScript.
 
 
-## GitHub Stats
-
-🔭 **Public Repositories:** 6
-
-👥 **Followers:** 1
-
-👤 **Following:** 1
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hprajapati1606-ux&show_icons=true&theme=radical)
 
 ## Recent Activity
 
